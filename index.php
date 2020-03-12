@@ -63,6 +63,9 @@
             .bgimg-1, .bgimg-2, .bgimg-3 {
                 background-attachment: scroll;
             }
+            .caption span {
+                font-size: 16px;
+            }
         }
     </style>
 </head>
